@@ -9,7 +9,7 @@
 
 **Fetch a Kural**
 
-<img src="./src/Thirukkural.png" width="120" height="120">
+<img src="./src/media/Thirukkural.png" width="120" height="120">
 
 ## Description
 - This project fetches the data from the following public API https://api-thirukkural.web.app/
@@ -31,7 +31,7 @@ $ npm start
 - You can add new actions are delete the existing actions in the list.
 - You can also modify the project to immit nclude new features.
 
-**Demo**
+**Demo** \
 ![fetch-kural](./src/media/kural.gif)
 
 ## Built with
