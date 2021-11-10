@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-fetch-kural/static/css/main.a1c2e739.chunk.css",
+    "main.js": "/react-fetch-kural/static/js/main.85ed1903.chunk.js",
+    "main.js.map": "/react-fetch-kural/static/js/main.85ed1903.chunk.js.map",
+    "runtime-main.js": "/react-fetch-kural/static/js/runtime-main.912c3bdd.js",
+    "runtime-main.js.map": "/react-fetch-kural/static/js/runtime-main.912c3bdd.js.map",
+    "static/js/2.7b63b3e7.chunk.js": "/react-fetch-kural/static/js/2.7b63b3e7.chunk.js",
+    "static/js/2.7b63b3e7.chunk.js.map": "/react-fetch-kural/static/js/2.7b63b3e7.chunk.js.map",
+    "static/js/3.ec7285e6.chunk.js": "/react-fetch-kural/static/js/3.ec7285e6.chunk.js",
+    "static/js/3.ec7285e6.chunk.js.map": "/react-fetch-kural/static/js/3.ec7285e6.chunk.js.map",
+    "index.html": "/react-fetch-kural/index.html",
+    "static/css/main.a1c2e739.chunk.css.map": "/react-fetch-kural/static/css/main.a1c2e739.chunk.css.map",
+    "static/js/2.7b63b3e7.chunk.js.LICENSE.txt": "/react-fetch-kural/static/js/2.7b63b3e7.chunk.js.LICENSE.txt",
+    "static/media/Thirukkural.34a0d3b2.png": "/react-fetch-kural/static/media/Thirukkural.34a0d3b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.912c3bdd.js",
+    "static/js/2.7b63b3e7.chunk.js",
+    "static/css/main.a1c2e739.chunk.css",
+    "static/js/main.85ed1903.chunk.js"
+  ]
+}
